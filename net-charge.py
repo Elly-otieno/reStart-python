@@ -1,6 +1,13 @@
 '''
-What we are doing:
 Calculating the Net charge of insulin by using python lists and loops
+
+Here, we will use lists, for and while loops, and basic math to calculate the net charge of insulin from pH 0 to pH 14.
+
+In this lab, we will:
+
+Create a dictionary of pKa values (which indicate the strength of an acid) that will be used in the net charge calculations
+Use the count() method to get a count of amino acids
+Use a while loop to calculate the net charge of insulin from pH 0 to pH 14
 '''
 
 # Python3.6  

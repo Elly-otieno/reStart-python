@@ -1,5 +1,13 @@
 '''
 Preparing to analyze insulin with python
+
+In information technology, Python works well as the programming language of choice for manipulating strings, sequences, and numbers. 
+Python is especially preferred in scientific computing applications such as physics, chemistry, and biology.
+
+In some of the labs for the Python modules, we will perform simple sequence manipulations and calculations on human insulin, which is a well-known hormone in the human body that is responsible for regulating sugars.
+
+In this lab, we will:
+ - Retrieve the protein sequence of human insulin from human preproinsulin
 '''
 
 import re
