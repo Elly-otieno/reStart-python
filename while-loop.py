@@ -1,3 +1,15 @@
+'''
+Working with Loops
+
+A loop is a segment of code that repeats. 
+We will be introduced to two types of loops: the while loop and the for loop.
+
+In this lab, we will:
+
+ - Use a while loop
+ - Use a for loop
+'''
+
 import random
 
 print("Welcome to Guess the Number!")

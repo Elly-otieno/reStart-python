@@ -1,3 +1,17 @@
+'''
+Working with Conditionals
+
+A section of code that compares two pieces of information is called a conditional statement. 
+We can use conditionals to create different paths through the program. 
+Using comparative operators, we will write a program that makes decisions.
+
+In this lab, we will:
+
+ - Use the if statement
+ - Use the else statement
+ - Use the elif statement
+'''
+
 # userReply = input("Do you need to ship a package? (Enter yes or no) ")
 
 # if userReply == "yes":

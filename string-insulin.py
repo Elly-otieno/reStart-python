@@ -1,5 +1,18 @@
 '''
 Working with the string sequence and Numeric weight of Insulin in python
+
+We will store the protein sequence of human preproinsulin in a string variable and the weight of preproinsulin in int and float variables. 
+Next, we will print these variables to the console, with comments that explain the code. 
+We will do basic math and string concatenations.
+
+In this lab, we will:
+
+Add comments that explain the intention and flow of our code
+Use print() to print elements of our Python code to the console
+Use string manipulations to get the sequence of insulin from preproinsulin
+Do basic math on the molecular weight and sequence of insulin
+Assign string, int, and float variables to numbers that represent the weight of insulin
+Explore Python exceptions
 '''
 
 # Store the human prepoinsulin sequence in a variable called prepoinsulin:
