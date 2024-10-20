@@ -1,0 +1,18 @@
+2024-10-17 11:05:59,966 - DEBUG - Dividing 10 by 2. Result: 5.0
+2024-10-17 11:05:59,967 - ERROR - Attempted to divide by zero.
+2024-10-17 11:09:44,988 - DEBUG - Attempting to divide 10 by 2.
+2024-10-17 11:09:44,988 - INFO - Division successful: 10 / 2 = 5.0
+2024-10-17 11:09:44,988 - DEBUG - Attempting to divide 10 by 0.
+2024-10-17 11:09:44,988 - ERROR - Division by zero attempted.
+Traceback (most recent call last):
+  File "c:\Users\user\desktop\reStart-python\log_example.py", line 36, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2024-10-17 11:09:45,001 - DEBUG - Attempting to divide a by 2.
+2024-10-17 11:09:45,002 - CRITICAL - Unexpected error occurred: unsupported operand type(s) for /: 'str' and 'int'
+Traceback (most recent call last):
+  File "c:\Users\user\desktop\reStart-python\log_example.py", line 36, in divide
+    result = a / b
+             ~~^~~
+TypeError: unsupported operand type(s) for /: 'str' and 'int'
