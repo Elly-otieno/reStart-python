@@ -1,7 +1,7 @@
 import json
 
 # creating json file handler module
-def readJsonFile(fileNmae):
+def readJsonFile(fileName):
     data = ""
     
     try:
